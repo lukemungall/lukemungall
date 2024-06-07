@@ -1,7 +1,6 @@
-# Hi there 👋 
 ### <a href="https://lukemungall.github.io/about/profile.html">About Me</a>
-
-Testing testing testig 
+### <a href="https://lukemungall.github.io/CV/lrm_cv.html">CV</a>
+Testing testing
 
 ## <a href="https://lukemungall.github.io/about/profile.html">About Me</a>
 
